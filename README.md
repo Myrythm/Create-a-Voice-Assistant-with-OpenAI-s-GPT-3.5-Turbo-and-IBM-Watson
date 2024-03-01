@@ -2,7 +2,7 @@
 Creating a Voice Assistant with OpenAI's GPT-3.5 Turbo and IBM Watson combines the natural language processing capabilities of both platforms to develop a sophisticated virtual assistant. Leveraging GPT-3.5 Turbo contextual understanding and Watson's robust AI services, this voice assistant can comprehend user queries, provide accurate responses, and execute tasks efficiently. Whether it's answering questions, managing schedules, or controlling smart devices, this collaboration offers a seamless and intelligent conversational experience for users.
 
 ## OpenAI
-OpenAI is a research organization that aims to promote and develop friendly artificial intelligence in a way that benefits humanity as a whole. One of their key projects is GPT-3, which is a state-of-the-art natural language processing model. We will be using GPT-3 in our assistant to allow it to understand and respond to a wide range of user inputs.
+OpenAI is a research organization that aims to promote and develop friendly artificial intelligence in a way that benefits humanity as a whole. One of their key projects is GPT-3.5 Turbo, which is a state-of-the-art natural language processing model. We will be using GPT-3.5 Turbo in our assistant to allow it to understand and respond to a wide range of user inputs.
 
 ## IBM Watson Speech Libraries for Embed
 IBM Watson® Speech Libraries for Embed are a set of containerized text-to-speech and speech-to-text libraries designed to offer our IBM partners greater flexibility to infuse the best of IBM Research® technology into their solutions. Now available as embeddable AI, partners gain greater capabilities to build voice transcription and voice synthesis applications more quickly and deploy them in any hybrid multicloud environment. These technologies allow the assistant to communicate with users through voice input and output.
@@ -20,4 +20,4 @@ HTML (Hypertext Markup Language) is a markup language used to structure content 
 ![Screenshot 2024-03-01 155225](https://github.com/Myrythm/Create-a-Voice-Assistant-with-OpenAI-s-GPT-3-and-IBM-Watson/assets/87670901/4a776f1f-6501-45c4-80fd-39ce3a6d4981)
 
 
-### Muhammad Azka Adhitama
+
