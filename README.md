@@ -1,4 +1,4 @@
-## Voice Assistant with OpenAI's GPT-3 and IBM Watson
+## Voice Assistant with OpenAI's GPT-3.5 Turbo and IBM Watson
 Creating a Voice Assistant with OpenAI's GPT-3.5 Turbo and IBM Watson combines the natural language processing capabilities of both platforms to develop a sophisticated virtual assistant. Leveraging GPT-3.5 Turbo contextual understanding and Watson's robust AI services, this voice assistant can comprehend user queries, provide accurate responses, and execute tasks efficiently. Whether it's answering questions, managing schedules, or controlling smart devices, this collaboration offers a seamless and intelligent conversational experience for users.
 
 ## OpenAI
